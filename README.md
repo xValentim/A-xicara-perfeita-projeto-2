@@ -48,3 +48,8 @@ Note que com o resultado da conclusão 3, é possível observar um valor ideal p
 - Tempo de resfriamento: t = 77.03 minutos
 
 Note que o fabricante da xícara teve o cuidado de procurar dimensões que fossem razoáveis para a xícara, de tal forma que ela  prolongassem a temperatura do café.
+
+## Tecnologias usadas nesse projeto
+
+![Arduino](https://img.shields.io/badge/Arduino-007ACC?style=for-the-badge&logo=arduino&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2D7DB1?style=for-the-badge&logo=python&logoColor=yellow)
